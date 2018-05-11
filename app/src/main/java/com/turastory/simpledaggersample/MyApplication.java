@@ -10,6 +10,7 @@ import com.turastory.simpledaggersample.di.DaggerAppComponent;
  * Created by tura on 2018-05-10.
  */
 public class MyApplication extends Application {
+    
     @Override
     public void onCreate() {
         super.onCreate();
